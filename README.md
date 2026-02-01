@@ -1,4 +1,6 @@
 # BlueprintUE C++ Plugin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fblueprintue-cpp-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fblueprintue-cpp-plugin?ref=badge_shield)
+
 
 This plugin allows you to send your blueprints on blueprintUE.com associated to your account.  
 It is necessary to have an account in order to get the API key on your profile page.
@@ -22,3 +24,7 @@ In file `Source/BlueprintUe/Public/SCreateBlueprint.h` line 107 you change `i` w
 ```c++
 for (int i = 2; i >= 0; --i)
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fblueprintue-cpp-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fblueprintue-cpp-plugin?ref=badge_large)
